@@ -19,7 +19,7 @@ pub fn frame() {
 }
 ```
 
-Then, when built, a directory with a `.wasm`-file and a `<crate-name>.js` (and other files) will be generated. Make this folder accessible to your webpage, as well as `copper.js` (download directly from the lastest release from the repository).
+Then, when built, a directory with a `.wasm`-file and a `<crate-name>.js` (and other files) will be generated. Make this folder accessible to your webpage, as well as `copper.js` (download the file directly from the lastest release [from the repository](https://github.com/devtaube/copper.rs)).
 
 (example for your webpage)
 ```html

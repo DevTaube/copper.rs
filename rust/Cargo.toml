@@ -1,0 +1,16 @@
+[package]
+name = "copper"
+version = "0.1.0"
+edition = "2021"
+authors = ["DevTaube"]
+license = "MIT"
+keywords = ["gamedev", "graphics", "api", "web", "wasm"]
+description = "A simple library for 2D games targeting HTML5."
+homepage = "https://github.com/devtaube/copper.rs"
+repository = "https://github.com/devtaube/copper.rs"
+
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
